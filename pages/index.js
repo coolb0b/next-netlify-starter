@@ -4,7 +4,6 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
       <p className="description">
         niggers
      </p>
